@@ -10,4 +10,4 @@ var min =  function () {
 
 var value = min(8, 900, 10, 200, 5, 80);
 
-console.log("Printing the smallest value: " + value);git
+console.log("Printing the smallest value: " + value);
